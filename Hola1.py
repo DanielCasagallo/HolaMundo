@@ -1,2 +1,3 @@
-print ("Hola mundo")
-print("\n")
+def Hola():
+    print ("Hola mundo")
+    print("\n")
